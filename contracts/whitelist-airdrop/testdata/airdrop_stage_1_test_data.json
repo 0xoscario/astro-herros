@@ -1,0 +1,10 @@
+{
+  "account": "terra1tt66jqq5u4xygxdw69nhk98jvrz0hjd4xaz766",
+  "amount": "1",
+  "root": "f6ad51bfa67c304041e8c3b61466ab8952331a93645d1c791a50d2c3b0b1076a",
+  "proofs": [
+    "11e718ba80d96f713bd8c995ef5f0ad9a7ffc741fdb7c54f5f53f7debc3bc420",
+    "402d5bdeac6c77f920592e1258bb40cdebbe03f786ea0cd5a1ee3bc19eaed0ab",
+    "baa8af1a0ae73464dcc7d814e074302fdf63da3e52ff9dcd7f79eaa68324986c"
+  ]
+}

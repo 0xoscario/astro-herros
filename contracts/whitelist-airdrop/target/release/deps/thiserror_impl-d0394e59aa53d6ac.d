@@ -1,0 +1,12 @@
+/home/idc/Terra/Astro_hero/whitelist_airdrop/target/release/deps/libthiserror_impl-d0394e59aa53d6ac.so: /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/lib.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/ast.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/attr.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/expand.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/fmt.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/generics.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/prop.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/valid.rs
+
+/home/idc/Terra/Astro_hero/whitelist_airdrop/target/release/deps/thiserror_impl-d0394e59aa53d6ac.d: /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/lib.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/ast.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/attr.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/expand.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/fmt.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/generics.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/prop.rs /home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/valid.rs
+
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/lib.rs:
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/ast.rs:
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/attr.rs:
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/expand.rs:
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/fmt.rs:
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/generics.rs:
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/prop.rs:
+/home/idc/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.30/src/valid.rs:

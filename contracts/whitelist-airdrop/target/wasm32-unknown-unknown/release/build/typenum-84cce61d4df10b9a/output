@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/idc/Terra/Astro_hero/whitelist_airdrop/target/wasm32-unknown-unknown/release/build/typenum-84cce61d4df10b9a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/idc/Terra/Astro_hero/whitelist_airdrop/target/wasm32-unknown-unknown/release/build/typenum-84cce61d4df10b9a/out/op.rs
